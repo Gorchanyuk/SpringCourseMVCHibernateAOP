@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/.PVS-Studio/
+/.idea/
+SpringCourseMVCHibernateAOP.iml
